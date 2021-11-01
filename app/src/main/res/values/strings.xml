@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="randomemoji">Random Emoji</string>
+    <string name="emojilist">Emoji List</string>
+    <string name="collectAvatar">Avatar List</string>
+    <string name="userGit">user from git</string>
+</resources>
